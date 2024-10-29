@@ -1,10 +1,11 @@
 # Nutrition-App
-Building a Nutrition App using mongoDB as a database
+Building a Nutrition App:
+- mongoDB as a database;
+- React as Frontend; (TODO)
 
-const express = require('express'); //Server
+For the Server = express
+For the dataBase = mongoose
+For the Password Security = bcrypt
+For the Token Auth = jsonwebtoken
 
-const mongoose = require('mongoose'); //DataBase
-
-const bcrypt = require('bcryptjs'); //Password privacy
-
-const jsonwebtokn = require('jsonwebtoken') //Token for Auth
+The app still needs some changes and the FE part.
